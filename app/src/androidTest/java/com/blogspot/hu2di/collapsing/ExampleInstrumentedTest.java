@@ -1,4 +1,4 @@
-package com.blogspot.hu2di.mybrowser;
+package com.blogspot.hu2di.collapsing;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
