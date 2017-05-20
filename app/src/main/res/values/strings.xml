@@ -1,5 +1,18 @@
 <resources>
-    <string name="app_name">Collapsing</string>
+    <string name="app_name">My Browser</string>
 
-    <string name="text_content">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
-    </resources>
+    <string name="search_or_enter_url">Search or Enter URL</string>
+    <string name="scan_qr_code">Scan QR Code</string>
+    <string name="album">Album</string>
+
+    <string name="result">Result</string>
+    <string name="search">Search</string>
+    <string name="copy">Copy</string>
+    <string name="back">Back</string>
+    <string name="copied">Copied to Clipboard</string>
+    <string name="cannot_detect_qr">Cannot detect QRCode from that Image</string>
+
+    <string name="news">News</string>
+    <string name="done">Done</string>
+    <string name="manage_cards">Manage Cards</string>
+</resources>

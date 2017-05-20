@@ -1,4 +1,4 @@
-package com.blogspot.hu2di.collapsing;
+package com.blogspot.hu2di.mybrowser;
 
 import org.junit.Test;
 
